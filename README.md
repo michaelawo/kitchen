@@ -22,14 +22,6 @@ The codebase emphasizes reliability through automated testing. The test suite co
 ⚬ State validation tests ensuring correct order lifecycle progression.
 ⚬ Edge-case handling for resource constraints and inputs.
 
-To run the test suite locally:
-
-# Using Maven (if configured)
-mvn test
-
-# Or compile and run via your IDE
-
-
 Engineering Highlights
 
 ⚬ Designed with modularity to allow seamless extension of new kitchen stations or recipes.
